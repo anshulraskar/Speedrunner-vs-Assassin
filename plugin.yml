@@ -3,7 +3,7 @@ name: SpeedrunnerVsAssassin
 version: 1.0.1
 api-version: 1.16
 description: Speedrunner vs Assassin plugin based on Dream's popular series
-author: Epic1Online
+author: Anshul Raskar
 
 commands:
    spdasnEnable:
